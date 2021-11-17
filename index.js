@@ -18,7 +18,7 @@ box.addEventListener('mouseleave', function(){
     box.style.backgroundColor = "orange"
     })
 
-document.addEventListener("keydown", (event) =>{
+document.addEventListener("keydown", function(event){
     if (event.key == "r")
         box.style.backgroundColor = "red"
     else if (event.key == "y")
