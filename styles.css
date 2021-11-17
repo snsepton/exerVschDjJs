@@ -1,0 +1,9 @@
+.grid-container {
+width: 300px;
+border: 15px solid rgb(16, 17, 16);
+padding: 100px;
+margin: 20px;
+position: fixed;
+top: 10%;
+left: 30%;
+}
